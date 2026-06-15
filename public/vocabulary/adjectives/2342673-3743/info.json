@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Mateo",
+    "profileImage": "https://randomuser.me/api/portraits/men/12.jpg",
+    "socialLink": "@its_mateo0121"
+  },
+  "words": [
+    { "id": 1, "en": "stubborn", "es": "terco" },
+    { "id": 2, "en": "wise", "es": "sabio" },
+    { "id": 3, "en": "ugly", "es": "feo" },
+    { "id": 4, "en": "crazy", "es": "loco" }
+  ]
+}
