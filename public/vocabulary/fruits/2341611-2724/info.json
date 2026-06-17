@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Keyner",
+    "profileImage": "https://randomuser.me/api/portraits/men/12.jpg",
+    "socialLink": "@keyneeer"
+  },
+  "words": [
+    { "id": 1, "en": "peach", "es": "durazno" },
+    { "id": 2, "en": "passion fruit", "es": "maracuya" },
+    { "id": 3, "en": "blueberry", "es": "arandano" },
+    { "id": 4, "en": "cherry", "es": "cereza" }
+  ]
+}
