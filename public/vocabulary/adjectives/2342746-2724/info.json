@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Juan",
+    "profileImage": "https://randomuser.me/api/portraits/men/13.jpg",
+    "socialLink": "@juxntoro"
+  },
+  "words": [
+    { "id": 1, "en": "friendly", "es": "amigable" },
+    { "id": 2, "en": "brave", "es": "valiente" },
+    { "id": 3, "en": "kind", "es": "amable" },
+    { "id": 4, "en": "funny", "es": "gracioso" }
+  ]
+}
